@@ -1,0 +1,15 @@
+[
+  {
+    "text": "Style-Aware and Uncertainty-Guided Approach to Semi-Supervised Domain Generalization in Medical Imaging. Key contributions include uncertainty-guided pseudo-labeling and style-aware augmentation.",
+    "metadata": {
+      "source_type": "journal",
+      "section": "publications",
+      "title": "Style-Aware and Uncertainty-Guided Approach to Semi-Supervised Domain Generalization in Medical Imaging",
+      "venue": "Mathematics",
+      "publisher": "MDPI",
+      "year": 2025,
+      "author": "Zineb Tissir",
+      "chunk_role": "contribution"
+    }
+  }
+]

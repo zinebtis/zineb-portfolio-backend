@@ -1,0 +1,14 @@
+[
+  {
+    "text": "This thesis investigates semi-supervised domain generalization for medical imaging, focusing on robustness under domain shifts using style-based augmentation and ensemble pseudo-labeling.",
+    "metadata": {
+      "source_type": "thesis",
+      "section": "education",
+      "title": "Multi-Style Ensemble Pseudo-Labeling for Semi-Supervised Domain Generalization",
+      "year": 2023,
+      "institution": "Gachon University",
+      "author": "Zineb Tissir",
+      "chunk_role": "summary"
+    }
+  }
+]

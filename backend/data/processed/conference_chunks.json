@@ -1,0 +1,38 @@
+[
+  {
+    "text": "This work analyzes the impact of data imbalance on COVID-19 chest X-ray classification, showing how imbalance degrades generalization and proposing evaluation strategies for medical datasets.",
+    "metadata": {
+      "source_type": "conference",
+      "section": "publications",
+      "title": "A Comprehensive Data Imbalance Analysis for Covid-19 Classification Dataset",
+      "year": 2021,
+      "venue": "ICTC (IEEE)",
+      "author": "Zineb Tissir",
+      "chunk_role": "abstract"
+    }
+  },
+  {
+    "text": "This work explores the use of test-time neural style transfer as an augmentation strategy to improve robustness in polyp classification tasks. By applying style transformations at inference time, the method mitigates domain shift caused by variations in imaging devices, acquisition protocols, and clinical environments. Experimental results demonstrate improved generalization performance without requiring additional labeled data, highlighting the potential of test-time adaptation techniques for medical image analysis.",
+    "metadata": {
+      "source_type": "conference",
+      "section": "publications",
+      "title": "Test-Time Neural Style Transfer Augmentation for Polyp Classification",
+      "year": 2022,
+      "venue": "KING Conference",
+      "author": "Zineb Tissir",
+      "chunk_role": "abstract"
+    }
+  },
+  {
+    "text": "This paper investigates the use of CycleGAN-based image-to-image translation for synthesizing realistic colorectal disease images. The proposed approach aims to alleviate data scarcity and class imbalance in medical datasets by generating visually consistent synthetic samples without paired supervision. The study demonstrates that GAN-generated images can enhance training diversity and improve downstream classification performance, supporting the use of generative models for data augmentation in medical imaging.",
+    "metadata": {
+      "source_type": "conference",
+      "section": "publications",
+      "title": "CycleGAN for Colorectal Disease Synthesis",
+      "year": 2022,
+      "venue": "KING Conference",
+      "author": "Zineb Tissir",
+      "chunk_role": "abstract"
+    }
+  }
+]

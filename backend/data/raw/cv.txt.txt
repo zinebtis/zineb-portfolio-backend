@@ -1,0 +1,78 @@
+﻿AI researcher with international experience in South Korea and Morocco, focusing on trustworthy
+multimodal and generative AI for real-world decision-making and healthcare. Published first-author
+Q1 journal paper (Mathematics, 2025) and multiple IEEE conference papers. Skilled in semisupervised
+learning, domain generalization, and explainable deep learning, with growing expertise in
+LLMs, agentic AI, and MLOps. Motivated to pursue a PhD or research role advancing the reliability
+and scalability of next-generation AI systems.
+ZINEB TISSIR
+AI RESEARCHER | GENERATIVE & MULTIMODAL LEARNING |
+MEDICAL IMAGING | TRUSTWORTHY AI
+SUMMARY
+RESEARCH INTERESTS
+Multimodal and generative AI (vision, language, structured data)
+Semi-supervised learning and domain generalization under real-world shifts
+Explainable and trustworthy AI for decision-making and healthcare
+Scalable AI systems bridging research and deployment
+📍 Casablanca, Morocco | 📞 (+212) 622-324058 | ✉️ zineb.tis@gmail.com
+🔗 LinkedIn | 🔗 ORCID | 🔗 Google Scholar
+RESEARCH EXPERIENCE
+AI Researcher — Independent Project May 2024 – Present
+Casablanca, Morocco
+Developed an extended semi-supervised domain generalization framework integrating style
+transfer and uncertainty filtering, achieving state-of-the-art results on the ISIC2019 dataset.
+Currently exploring multimodal extensions and LLM-assisted data curation for medical
+imaging.
+Published work in Mathematics (Q1, 2025) under collaboration with the PRML Lab, South
+Korea.
+Research Assistant — Pattern Recognition & Machine Learning (PRML) Lab Mar 2021 – Mar 2023
+Gachon University, Gyeonggi-do, South Korea
+Designed CNN- and GAN-based architectures for medical imaging classification and
+synthesis.
+Contributed to three international conferences and supported collaborative clinical AI
+research.
+Deep Learning Engineer — R&D Division, SiliconArts Inc. Sep 2023 – May 2024
+Seoul, South Korea.
+Applied Vision Transformers for real-time retail object detection under occlusion and lighting
+variability.
+Integrated model deployment into Docker-based MLOps pipelines on Azure.
+SKILLS
+AI/ML: CNNs, Vision Transformers (ViT), GANs, LLMs, Semi-/Self-supervised Learning, Domain
+Generalization, XAI
+Frameworks: PyTorch, TensorFlow, LangChain, Scikit-learn, OpenCV, FastAPI, Streamlit
+MLOps & Cloud: Docker, Git, AWS SageMaker, Azure ML, CI/CD Pipelines
+Programming: Python, C++
+Data Science: Pandas, NumPy, Feature Engineering, Power BI
+HONORS & ACHIEVEMENTS
+1st Place – Hack4Ed Hackathon (ESSEC Africa x Geeks Institute, 2025) — AI voice coach
+analyzing breathing and emotion.
+Selected for GenAI Bootcamp 2025 as a top-performing participant.
+First-author Q1 Journal Paper — Mathematics (Elsevier, 2025).
+Graduate Scholarship Recipient — Gachon University (2021–2023).
+LANGUAGES
+English: Fluent | French: Fluent | Arabic: Native | Korean: Basic.
+M.S. in AI Software Studies 2021–2023
+Gachon University, South Korea
+GPA: 4.31 / 4.5
+Thesis: “Multi-Style Ensemble Pseudo-labeling for Semi-supervised Domain Generalization”
+Supervisor: Prof. Sang-Woong Lee.
+EDUCATION
+B.S. in Computer Science & Management 2018–2019
+Hassan 1 University, Morocco.
+GenAI & Machine Learning Bootcamp Ongoing (2025)
+Geeks Institute, Morocco
+Focus: AI Agents, LLMs, RAG, MLOps, Cloud Deployment (AWS & Azure)
+Journal Articles
+PUBLICATIONS
+Z. Tissir, Y. Jang, and S.-W. Lee, “Style-Aware and Uncertainty-Guided Approach to Semi-
+Supervised Domain Generalization in Medical Imaging,” Mathematics, Vol. 13, No. 17, 2763, Aug.
+2025. Impact Factor: 2.2, Q1 (Top 5.9%).
+Conference Papers
+Z. Tissir, S. Poudel, R. Baidya, and S.-W. Lee, “A Comprehensive Data Imbalance Analysis for
+Covid-19 Classification Dataset,” ICTC 2021 (IEEE), pp. 20–24, Jeju, Korea.
+Z. Tissir, & S.-W. Lee, “Test-Time Neural Style Transfer Augmentation for Polyp Classification,”
+Korean Society of Next-Generation Computing Conference (KING), Oct. 2022, pp. 268–270.
+Z. Tissir, & S.-W. Lee, “CycleGAN for Colorectal Disease Synthesis,” Korean Society of Next-
+Generation Computing Conference (KING), May 2022, pp. 146–149.
+R. Baidya, H.-C. Park, Z. Tissir, & S.-W. Lee, “Vision-Based Golf Ball Tracking Using YOLO and
+Image Processing,” Korean Society of Next-Generation Computing Conference (KING), May
+2021, pp. 412–414.
